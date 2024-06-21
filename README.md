@@ -1,6 +1,6 @@
 # Abdul Kalam Tribute Page
 
-![APJ Abdul Kalam](path_to_image)
+![APJ Abdul Kalam](https://github.com/AbhignyaRayagonda/Abdul_kalam_trebute_page/blob/main/apj.jpg?raw=true)
 
 This project is a tribute page dedicated to Dr. APJ Abdul Kalam, the 11th President of India and a renowned aerospace scientist. It showcases his life, achievements, and contributions to science and society.
 
